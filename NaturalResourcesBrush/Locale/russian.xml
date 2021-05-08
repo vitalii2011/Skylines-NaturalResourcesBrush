@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="ru" ReadableName="Русский" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID="ELT_DESCRIPTION" String="Позволяет использовать некоторые инструменты редактора карт в игре" />
+    <!-- OPTIONS -->
+    <Translation ID="ELT_OPTION_RESOURCES_TOOL" String="Инструмент природных ресурсов" />
+    <Translation ID="ELT_OPTION_WATER_TOOL" String="Инструмент для воды" />
+    <Translation ID="ELT_OPTION_TERRAIN_TOOL" String="Расширения для ландшафтных инструментов" />
+    <Translation ID="ELT_OPTION_TREE_BRUSH" String="Кисть для деревьев" />
+    <Translation ID="ELT_OPTION_TREE_PENCIL" String="Карандаш для деревьев" />
+    <Translation ID="ELT_OPTION_TOPOGRAPHY" String="Изменение рельефа местности" />
+    <Translation ID="ELT_DITCH_TOOL" String="Насыпь/Выемка" />
+    <!--UI-->
+    <Translation ID="ELT_BRUSH_OPTIONS" String="Параметры кисти" />
+    <Translation ID="ELT_WATER_OPTIONS" String="Параметры воды" />
+    <Translation ID="ELT_DITCH_BUTTON" String="Насыпь/Выемка" />
+    <Translation ID="ELT_SAND_BUTTON" String="Песок" />
+    <Translation ID="ELT_SAND_DESCRIPTION" String ="Используйте левую клавишу мыши, чтобы поместить декоративный песок в область под кистью. Используйте правую кнопку мыши, чтобы удалить декоративный песок из области под кистью" />
+  </Translations>
+</Language>
